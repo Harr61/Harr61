@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div>
 <h3 style="text-align:center;"> Ola! Seja Bem Vindo !!! 👋</h3>
 <p> <i> Não busco ser perfeito, tento apenas dar o melhor de mim nas minhas pequenas viagens nesse vasto mundo que e a programação. </i> </p>
 
