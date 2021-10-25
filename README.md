@@ -1,7 +1,6 @@
 <div style="text-align:center;">
 <h3 style="text-align:center;"> Ola! Seja Bem Vindo !!! �</h3>
 <p> <i> Hoje trabalho com Java front/back-end </i> </p>
-<p> <i> Estudo: html - css - Js </i> </p>
 <p> <i> Contate-me no email: guilbert.alves6162@gmail.com </i> </p>
 
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//68996053334)
