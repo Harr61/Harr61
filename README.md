@@ -1,19 +1,19 @@
 <div>
-<h3 style="text-align:center;"> Ola! Seja Bem Vindo !!! 👋</h3>
-<p> <i> Não busco ser perfeito, tento apenas dar o melhor de mim nas minhas pequenas viagens nesse vasto mundo que e a programação. </i> </p>
-
+<h3> Ola! Seja Bem Vindo !!!</h3>
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5568996053334)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-ara%C3%BAjo-de-moraes-1a280587/)
-
+</div>
+  
+ <div>
   <a href="https://github.com/Harr61">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harr61&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harr61&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <hr>
- <div style="text-align:justify;"> 
-<h3><b> Tecnologias ⚡</b></h3>
+  <div style="text-align:justify;"> 
+<h3><b> Tecnologias</b></h3>
 <p> <i>Essas são algumas das tecnologias e ferramentas com as quais, trabalho: </i> </p> 
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
